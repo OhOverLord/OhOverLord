@@ -54,6 +54,23 @@
 
 Below are some of the projects I've worked on. Click on the titles to see the repositories and read more about each project.
 
+## 🏨 StayEz - Hotel Reservation System
+
+[![StayEz](https://img.shields.io/badge/View_Project-StayEz-blue.svg?style=flat-square&logo=github)](https://github.com/OhOverLord/StayEz)
+
+A concise university project aimed at delivering a hotel room reservation system crafted with Spring Boot. This application features a simple yet effective user interface for room bookings, backed by a solid Spring ecosystem.
+
+### Tech Stack:
+- Spring Boot
+- Spring Data JPA
+- Thymeleaf
+- PostgreSQL
+- Lombok
+- Swagger/OpenAPI
+- Docker
+
+StayEz allows users to efficiently book hotel rooms, handling reservations with a robust backend and an intuitive front-end interface.
+
 ### 🏰 Tower Attack
 [![Tower Attack](https://img.shields.io/badge/GitHub-Tower_Attack-green?style=for-the-badge&logo=github)](https://github.com/OhOverLord/Tower-attack)
 
