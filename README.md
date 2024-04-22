@@ -17,7 +17,7 @@
 
 ## 🌐 Languages
 - Russian (Native)
-- English (Fluent)
+- English (Intermediate)
 - Czech (Intermediate)
 
 ## 💻 Skills
