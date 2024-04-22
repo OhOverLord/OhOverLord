@@ -21,7 +21,7 @@
 - Czech (Intermediate)
 
 ## 💻 Skills
-- `C` `C++` `Python` `JavaScript`
+- `C` `C++` `Python` `JavaScript` `Java`
 - `Git` `HTML & CSS` `SQL` `PostgreSQL` `Vue` `PHP`
 
 ## 🏅 Courses Completed
