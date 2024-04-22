@@ -71,6 +71,22 @@ A concise university project aimed at delivering a hotel room reservation system
 
 StayEz allows users to efficiently book hotel rooms, handling reservations with a robust backend and an intuitive front-end interface.
 
+## 🖥️ StayEz Client
+
+[![StayEz Client](https://img.shields.io/badge/View_Client-StayEz_Client-blue.svg?style=flat-square&logo=github)](https://github.com/OhOverLord/StayEz-client)
+
+The StayEz Client provides a user interface for the hotel reservation system, enabling easy and efficient room bookings.
+
+### Tech Stack:
+- **Vue.js**: Front-end framework for building user interfaces
+- **BootstrapVue**: For responsive and modern UI components
+- **SweetAlert2**: For elegant alerts and popups
+- **Vue Router**: For spa-like page navigation
+- **Vite**: Modern frontend build tool enhancing the development experience
+- **Docker**: Used to containerize and deploy the application
+
+This setup ensures a responsive and intuitive booking experience.
+
 ### 🏰 Tower Attack
 [![Tower Attack](https://img.shields.io/badge/GitHub-Tower_Attack-green?style=for-the-badge&logo=github)](https://github.com/OhOverLord/Tower-attack)
 
