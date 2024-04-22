@@ -31,10 +31,6 @@
 - Java Course at HyperSkill (Jan 2023 - Mar 2023)
 - Standard Linux Course, Cisco Networking Academy (Sep 2022 - Nov 2022)
 
-## 🎿 Hobbies
-- Table Tennis
-- Skiing
-
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonid%20Filippov-blue)](https://www.linkedin.com/in/leonid-filippov-6b99b7286/)
 
