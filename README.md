@@ -110,4 +110,27 @@ Tower Attack is a strategic game where the player sends waves of enemies through
 
 This project exemplifies the application of advanced programming principles in a complex, interactive game environment.
 
+## 🤖 TCPServer - Treasure Hunt Robot Control
 
+[![TCPServer](https://img.shields.io/badge/View_Project-TCPServer-blue.svg?style=flat-square&logo=github)](https://github.com/OhOverLord/TCPServer)
+
+TCPServer is a TCP server implemented in Python, designed to control robots as they navigate and search for treasure. The server receives coordinates from robots and instructs them on their next moves based on their current location and obstacles encountered.
+
+### Tech Stack:
+- **Python**: For server logic and handling TCP connections.
+- **Socket Programming**: For TCP/IP communication.
+- **Multi-threading**: To handle communication with multiple robots concurrently.
+
+### Key Features:
+- **Dynamic Command Handling**: Robots receive commands such as MOVE, TURN LEFT, TURN RIGHT, and GET MESSAGE based on their situation.
+- **Error Handling**: Implements responses to various error conditions like SYNTAX ERROR and LOGIC ERROR.
+- **Encryption and Security**: Uses a basic encryption mechanism for secure communication between the server and robots.
+- **State Management**: Manages robot states and positions, providing commands based on the robot's current state and received data.
+
+### Server Commands:
+- `MOVE` - instructs the robot to move forward.
+- `TURN LEFT`/`TURN RIGHT` - directs the robot to turn.
+- `GET MESSAGE` - command to pick up a treasure if at the correct location.
+- `LOGOUT` - disconnects the robot from the server.
+
+The server architecture allows for scalable communication with multiple robots, ensuring robust handling of real-time data and commands.
