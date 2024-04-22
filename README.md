@@ -37,8 +37,12 @@
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonid%20Filippov-blue)](https://www.linkedin.com/in/leonid-filippov-6b99b7286/)
+
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Greeting Animation"/>
+</p>
+<p align="center">
+  <strong>You've scrolled down to the most interesting part - the description of my projects and a cat. 😺</strong>
 </p>
 
 ## 📚 Projects
