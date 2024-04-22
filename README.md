@@ -87,9 +87,27 @@ The StayEz Client provides a user interface for the hotel reservation system, en
 
 This setup ensures a responsive and intuitive booking experience.
 
-### 🏰 Tower Attack
-[![Tower Attack](https://img.shields.io/badge/GitHub-Tower_Attack-green?style=for-the-badge&logo=github)](https://github.com/OhOverLord/Tower-attack)
+## 🏰 Tower Attack
 
-#### Technologies:
-- C++
+[![Tower Attack](https://img.shields.io/badge/View_Project-Tower_Attack-blue.svg?style=flat-square&logo=github)](https://github.com/OhOverLord/Tower-attack)
+
+Tower Attack is a strategic game where the player sends waves of enemies through a maze with the goal of evading or destroying as many enemy defense towers as possible to conquer the base.
+
+### Tech Stack:
+- **C++**: Used for all game logic and performance-intensive tasks.
+
+### Key Features:
+- **Tower vs. Attacker Interaction**: Implements functionalities such as attacker destruction, breakthroughs, and tower destruction.
+- **Multiple Effects**: Features at least three different effects for both towers (e.g., attack nearest unit, attack strongest, area slow) and attackers (e.g., invisibility, flying, increased resilience).
+- **Score Counter and Victory Detection**: Tracks player performance and determines game outcome.
+- **AI for Tower Placement**: AI algorithms strategically place towers to maximize defense.
+- **Game Configuration from Files**: Configurable game elements (attackers, towers, maps) through external files.
+- **Game Save and Load**: Ability to save and load gameplay states.
+
+### Programming Principles:
+- **Polymorphism**: Utilized in attacker effects and user interface elements, where different effects and screens share common methods.
+- **Breadth-First Search (BFS) Algorithm**: Implemented to find the shortest path for enemies on the map, ensuring strategic gameplay and effective pathfinding.
+
+This project exemplifies the application of advanced programming principles in a complex, interactive game environment.
+
 
