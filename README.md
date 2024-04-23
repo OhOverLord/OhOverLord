@@ -22,7 +22,7 @@
 
 ## 💻 Skills
 - `C` `C++` `Python` `JavaScript` `Java`
-- `Git` `HTML & CSS` `SQL` `PostgreSQL` `Vue` `PHP`
+- `Git` `HTML & CSS` `SQL` `PostgreSQL` `Vue` `PHP` `Docker` `Java Spring Boot`
 
 ## 🏅 Courses Completed
 - C, C++, Python at Moscow School of Programmers (Sep 2016 - Jun 2018)
