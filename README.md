@@ -32,7 +32,7 @@
 - Standard Linux Course, Cisco Networking Academy (Sep 2022 - Nov 2022)
 
 ## 🔗 Links
-www.linkedin.com/in/leonid-filippov
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonid_Filippov-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonid-filippov-6b99b7286/)
 
 ---
 
