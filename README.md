@@ -7,7 +7,7 @@
 
 ## 🚀 Employment History
 - Backend Developer at Freelance, Moscow (Jan 2021 - Aug 2021)
-- Front-end Developer at Placeb2b, Moscow (Sep 2021 - Dec 2021)
+- Front-end Developer at Placebo, Moscow (Sep 2021 - Dec 2021)
 - System Administrator at DaIITrans Group s.r.o, Prague (Jan 2022 - Mar 2022)
 - Web Application Developer at HP Tronic, Prague (Jul 2022 - Present)
 
