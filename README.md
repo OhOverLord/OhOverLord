@@ -1,7 +1,7 @@
 # Leonid Filippov
 
 ## 📌 Profile
-- Student at CTU FIT, passionate about space engineering and technology with a strong foundation in computer systems.
+- Student at CTU FIT.
 - Experienced in backend and frontend development, database management, and application architecture.
 - Proficient in C, Python, JavaScript, SQL, and more.
 
