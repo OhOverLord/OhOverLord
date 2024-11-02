@@ -83,6 +83,24 @@ The StayEz Client provides a user interface for the hotel reservation system, en
 
 This setup ensures a responsive and intuitive booking experience.
 
+## 🌁 ArtHub - Social Platform for Creative Content
+
+[![ArtHub](https://img.shields.io/badge/View_Project-ArtHub-blue.svg?style=flat-square&logo=github)](https://github.com/OhOverLord/ArtHub)
+
+ArtHub is a platform designed for creating and sharing inspirational content, connecting users based on shared interests and preferences. Users can create accounts, organize collections, share ideas, and use a recommendation system to discover new content. I was part of a 7-person team and was responsible for implementing basic CRUD operations, setting up Spring Security, and developing search functionality using Elasticsearch.
+
+### Tech Stack:
+- Java Spring Framework
+- Spring Security
+- Elasticsearch
+- PostgreSQL
+- Gradle
+- Git
+- Docker
+- React
+- JUnit
+- OpenShift
+
 ## 🏰 Tower Attack
 
 [![Tower Attack](https://img.shields.io/badge/View_Project-Tower_Attack-blue.svg?style=flat-square&logo=github)](https://github.com/OhOverLord/Tower-attack)
