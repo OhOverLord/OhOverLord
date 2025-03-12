@@ -6,14 +6,10 @@
 - Proficient in C, Python, JavaScript, SQL, and more.
 
 ## 🚀 Employment History
-- Backend Developer at Freelance, Moscow (Jan 2021 - Aug 2021)
-- Front-end Developer at Placebo, Moscow (Sep 2021 - Dec 2021)
-- System Administrator at DaIITrans Group s.r.o, Prague (Jan 2022 - Mar 2022)
-- Automation Tester at HP Tronic, Prague (Jul 2022 - Jul 2024)
 - Web Application Developer at HP Tronic, Prague (Jul 2024 - October 2024)
 
 ## 🎓 Education
-- Higher Diploma in Programming in Computer Systems from the College of Space Engineering and Technology (2019 - 2021)
+- Vocational Secondary Education, College of Space Engineering and Technology (2019 - 2021)
 - Currently studying Software Engineering at Czech Technical University, Faculty of Information Technology
 
 ## 🌐 Languages
@@ -22,7 +18,7 @@
 - Czech (Intermediate)
 
 ## 💻 Skills
-- `C` `C++` `Python` `JavaScript` `Java`
+- `C` `C++` `Python` `JavaScript` `Java` `Kotlin`
 - `Git` `HTML & CSS` `SQL` `PostgreSQL` `Vue` `PHP` `Docker` `Java Spring Boot`
 
 ## 🏅 Courses Completed
@@ -34,18 +30,6 @@
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonid_Filippov-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonid-filippov-6b99b7286/)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Greeting Animation" width="200"/>
-</p>
-
-<p align="center">
-  <strong>You've scrolled down to the most interesting part - the description of my projects and a cat. 😺</strong>
-</p>
-
----
 
 ## 📚 Projects
 
